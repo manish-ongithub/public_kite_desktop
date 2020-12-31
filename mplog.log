@@ -1,0 +1,736 @@
+2020-12-31 12:18:33,231 kite_websockets DEBUG    MainProcess token_dict {779521: {'Symbol': 'STATE BANK OF INDIA'}}
+2020-12-31 12:18:33,231 kite_websockets DEBUG    MainProcess token_dict {779521: {'Symbol': 'STATE BANK OF INDIA'}}
+2020-12-31 12:18:33,325 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:33,325 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,046 tick_handler    DEBUG    MainProcess data loaded for 779521 1
+2020-12-31 12:18:34,046 tick_handler    DEBUG    MainProcess data loaded for 779521 1
+2020-12-31 12:18:34,047 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/5minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,047 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/5minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,247 tick_handler    DEBUG    MainProcess data loaded for 779521 5
+2020-12-31 12:18:34,247 tick_handler    DEBUG    MainProcess data loaded for 779521 5
+2020-12-31 12:18:34,248 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/15minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,248 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/15minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,442 tick_handler    DEBUG    MainProcess data loaded for 779521 15
+2020-12-31 12:18:34,442 tick_handler    DEBUG    MainProcess data loaded for 779521 15
+2020-12-31 12:18:34,442 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/30minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,442 utility         INFO     MainProcess https://kite.zerodha.com/oms/instruments/historical/779521/30minute?user_id=ZX6806&oi=1&from=2020-12-31&to=2020-12-31&ciqrandom=1608713279669
+2020-12-31 12:18:34,643 tick_handler    DEBUG    MainProcess data loaded for 779521 30
+2020-12-31 12:18:34,643 tick_handler    DEBUG    MainProcess data loaded for 779521 30
+2020-12-31 12:18:40,320 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:40,320 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:40,398 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:40,398 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:40,460 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:40,460 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:41,790 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:41,790 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:41,853 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:41,853 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:41,900 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:41,900 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:42,593 tick_handler    DEBUG    MainProcess tick not present 2020-12-31 12:18:00
+2020-12-31 12:18:42,593 tick_handler    DEBUG    MainProcess tick not present 2020-12-31 12:18:00
+2020-12-31 12:18:42,714 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:42,714 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:42,805 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:42,805 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:43,201 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:43,201 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:43,274 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:43,274 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:43,338 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:18:43,338 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:18:44,233 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:44,233 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:44,249 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:44,249 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:44,296 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:44,296 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:45,429 orders          DEBUG    MainProcess found order object
+2020-12-31 12:18:45,429 orders          DEBUG    MainProcess found order object
+2020-12-31 12:18:45,430 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:18:45,430 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:18:45,430 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:18:45,430 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:18:45,430 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:18:45,430 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:18:45,898 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:18:45,898 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:18:45,959 orders          DEBUG    MainProcess writing buy order to order_book {294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}
+2020-12-31 12:18:45,959 orders          DEBUG    MainProcess writing buy order to order_book {294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}
+2020-12-31 12:18:46,054 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:18:46,054 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:18:46,101 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}]}
+2020-12-31 12:18:46,101 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}]}
+2020-12-31 12:18:46,225 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:18:46,225 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:18:46,460 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:46,460 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:46,515 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:46,515 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:46,515 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:46,515 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:46,728 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:46,728 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:46,806 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:46,806 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:46,862 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:46,862 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:46,891 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:46,891 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:46,902 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:18:46,902 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:18:47,468 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:47,468 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:47,499 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:47,499 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:47,546 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:47,546 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:48,553 orders          DEBUG    MainProcess found order object
+2020-12-31 12:18:48,553 orders          DEBUG    MainProcess found order object
+2020-12-31 12:18:48,630 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:18:48,630 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:18:48,630 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:18:48,630 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:18:48,630 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:18:48,630 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:18:49,273 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:18:49,273 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:18:49,274 orders          DEBUG    MainProcess writing buy order to order_book {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}
+2020-12-31 12:18:49,274 orders          DEBUG    MainProcess writing buy order to order_book {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}
+2020-12-31 12:18:49,274 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:18:49,274 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:18:49,335 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}]}
+2020-12-31 12:18:49,335 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}]}
+2020-12-31 12:18:49,477 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:18:49,477 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:18:49,759 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:49,759 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:49,775 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:49,775 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:49,869 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:49,869 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:49,955 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:49,955 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:50,072 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:50,072 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:50,137 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:50,137 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:50,245 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:50,245 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:50,308 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:18:50,308 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:18:50,420 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:50,420 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:50,422 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:50,422 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:50,422 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:50,422 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:51,882 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:51,882 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:51,930 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:51,930 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:51,977 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:51,977 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:52,073 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:52,073 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:52,229 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:52,229 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:52,300 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:52,300 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:52,346 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:52,346 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:52,347 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:18:52,347 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:18:57,072 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:57,072 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:57,088 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:57,088 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:57,088 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:57,088 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:58,441 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:58,441 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:18:58,504 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:58,504 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:18:58,583 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:58,583 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:58,693 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:58,693 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:58,958 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:58,958 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:18:59,256 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:59,256 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:18:59,347 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:59,347 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:18:59,442 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:18:59,442 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:18:59,757 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:59,757 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:18:59,819 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:59,819 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:18:59,866 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:18:59,866 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:01,371 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:01,371 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:01,403 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:01,403 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:01,434 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:01,434 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:01,530 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:01,530 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:01,733 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:01,733 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:01,819 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:01,819 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:01,912 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:01,912 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:01,913 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:01,913 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:02,174 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:02,174 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:02,174 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:02,174 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:02,175 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:02,175 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:03,432 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:03,432 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:03,480 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:03,480 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:03,637 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:03,637 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:03,691 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:03,691 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:03,747 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:03,747 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:03,812 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:03,812 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:03,851 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:03,851 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:03,874 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:03,874 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:04,093 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:04,093 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:04,157 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:04,157 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:04,210 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:04,210 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:05,525 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:05,525 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:05,573 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:05,573 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:05,636 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:05,636 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:05,733 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:05,733 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:05,857 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:05,857 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:05,968 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:05,968 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:06,109 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:06,109 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:06,189 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:06,189 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:06,486 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:06,486 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:06,517 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:06,517 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:06,578 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:06,578 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:07,846 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:07,846 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:07,847 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:07,847 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:07,847 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:07,847 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:07,908 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:07,908 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:08,060 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:08,060 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:08,361 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:08,361 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:08,439 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:08,439 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:08,440 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:08,440 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:12,594 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:12,594 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:12,657 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:12,657 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:12,720 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:12,720 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:14,129 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:14,129 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:14,192 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:14,192 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:14,223 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:14,223 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:14,277 tick_handler    DEBUG    MainProcess tick not present 2020-12-31 12:19:00
+2020-12-31 12:19:14,277 tick_handler    DEBUG    MainProcess tick not present 2020-12-31 12:19:00
+2020-12-31 12:19:14,283 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:14,283 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:14,396 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:14,396 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:14,420 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:14,420 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:14,457 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:14,457 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:14,458 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:14,458 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:14,649 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:14,649 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:14,728 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:14,728 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:14,759 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:14,759 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:16,016 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:16,016 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:16,079 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:16,079 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:16,111 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:16,111 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:16,223 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:16,223 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:16,315 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:16,315 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:16,444 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:16,444 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:16,526 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:16,526 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:16,600 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:16,600 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:17,260 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:17,260 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:17,291 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:17,291 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:17,291 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:17,291 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:18,377 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:18,377 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:18,423 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:18,423 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:18,453 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:18,453 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:18,517 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:18,517 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:19,098 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:19,098 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:19,145 orders          DEBUG    MainProcess writing buy order to order_book {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}
+2020-12-31 12:19:19,145 orders          DEBUG    MainProcess writing buy order to order_book {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}
+2020-12-31 12:19:19,160 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:19,160 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:19,160 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}]}
+2020-12-31 12:19:19,160 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}]}
+2020-12-31 12:19:19,239 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:19,239 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:19,507 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:19,507 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:19,522 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:19,522 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:19,554 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:19,554 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:19,619 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:19,619 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:19,712 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:19,712 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:19,887 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:19,887 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:19,979 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:19,979 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:20,027 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:20,027 tick_handler    DEBUG    MainProcess signal returned by stochastic 0 instrument 779521
+2020-12-31 12:19:20,370 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:20,370 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:20,448 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:20,448 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:20,510 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:20,510 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:21,765 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:21,765 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:21,765 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:21,765 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:21,766 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:21,766 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:21,819 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:21,819 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:21,938 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:21,938 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:22,024 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:22,024 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:22,085 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:22,085 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:22,086 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:22,086 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:27,114 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:27,114 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:27,178 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:27,178 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:27,210 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:27,210 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:28,145 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:28,145 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:28,145 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:28,145 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:28,146 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:28,146 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:28,146 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:28,146 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:28,685 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:28,685 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:28,686 orders          DEBUG    MainProcess writing buy order to order_book {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}
+2020-12-31 12:19:28,686 orders          DEBUG    MainProcess writing buy order to order_book {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}
+2020-12-31 12:19:28,686 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:28,686 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:28,686 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}]}
+2020-12-31 12:19:28,686 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}]}
+2020-12-31 12:19:28,723 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:28,723 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:28,725 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:28,725 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:28,726 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:28,726 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:28,726 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:28,726 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:28,778 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:28,778 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:28,850 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:28,850 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:28,894 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:28,894 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:29,022 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:29,022 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:29,086 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:29,086 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:29,572 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:29,572 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:29,572 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:29,572 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:29,587 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:29,587 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:30,726 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:30,726 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:30,726 orders          DEBUG    MainProcess {'price': 274.25, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:30,726 orders          DEBUG    MainProcess {'price': 274.25, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:30,726 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:30,726 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:30,742 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:30,742 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:31,452 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:31,452 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:31,509 orders          DEBUG    MainProcess writing buy order to order_book {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}
+2020-12-31 12:19:31,509 orders          DEBUG    MainProcess writing buy order to order_book {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}
+2020-12-31 12:19:31,541 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:31,541 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:31,573 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}]}
+2020-12-31 12:19:31,573 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}]}
+2020-12-31 12:19:31,573 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:31,573 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:31,725 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:31,725 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:31,749 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:31,749 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:31,749 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:31,749 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:31,816 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:31,816 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:31,956 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:31,956 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:32,094 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:32,094 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:32,194 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:32,194 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:32,241 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:32,241 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:32,595 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:32,595 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:32,595 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:32,595 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:32,680 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:32,680 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:33,556 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:33,556 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:33,602 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:33,602 orders          DEBUG    MainProcess {'price': 274.2, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:33,711 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:33,711 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:33,751 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:33,751 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:34,242 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:34,242 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:34,305 orders          DEBUG    MainProcess writing buy order to order_book {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}
+2020-12-31 12:19:34,305 orders          DEBUG    MainProcess writing buy order to order_book {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}
+2020-12-31 12:19:34,368 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:34,368 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:34,432 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}]}
+2020-12-31 12:19:34,432 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}]}
+2020-12-31 12:19:34,558 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:34,558 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:34,622 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:34,622 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:34,623 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:34,623 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:34,623 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:34,623 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:34,734 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:34,734 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:34,958 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:34,958 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:35,054 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:35,054 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:35,164 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:35,164 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:35,228 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:35,228 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:35,797 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:35,797 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:35,827 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:35,827 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:35,842 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:35,842 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:37,003 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:37,003 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:37,072 orders          DEBUG    MainProcess {'price': 274.25, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:37,072 orders          DEBUG    MainProcess {'price': 274.25, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:37,134 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:37,134 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:37,203 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:37,203 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:37,890 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:37,890 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:37,937 orders          DEBUG    MainProcess writing buy order to order_book {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}
+2020-12-31 12:19:37,937 orders          DEBUG    MainProcess writing buy order to order_book {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}
+2020-12-31 12:19:37,985 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:37,985 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:38,048 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}]}
+2020-12-31 12:19:38,048 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}]}
+2020-12-31 12:19:38,190 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:38,190 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:38,489 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:38,489 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:38,520 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:38,520 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:38,574 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:38,574 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:38,636 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:38,636 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:38,890 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:38,890 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:39,034 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:39,034 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:39,117 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:39,117 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:39,162 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:39,162 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:44,440 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:44,440 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:44,477 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:44,477 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:44,524 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:44,524 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:45,509 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:45,509 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:45,556 orders          DEBUG    MainProcess {'price': 274.25, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:45,556 orders          DEBUG    MainProcess {'price': 274.25, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:45,556 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:45,556 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:45,556 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:45,556 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:46,195 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:46,195 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:46,242 orders          DEBUG    MainProcess writing buy order to order_book {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}
+2020-12-31 12:19:46,242 orders          DEBUG    MainProcess writing buy order to order_book {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}
+2020-12-31 12:19:46,306 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:46,306 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:46,322 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}]}
+2020-12-31 12:19:46,322 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}]}
+2020-12-31 12:19:46,370 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:46,370 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:46,654 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:46,654 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:46,702 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:46,702 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:46,750 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:46,750 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:46,836 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:46,836 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:46,888 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:46,888 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:46,972 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:46,972 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:47,061 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:47,061 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:47,141 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:47,141 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:47,779 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:47,779 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:47,811 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:47,811 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:47,895 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:47,895 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:49,043 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:49,043 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:49,043 orders          DEBUG    MainProcess {'price': 274.35, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:49,043 orders          DEBUG    MainProcess {'price': 274.35, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:49,043 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:49,043 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:49,058 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:49,058 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess writing buy order to order_book {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess writing buy order to order_book {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}]}
+2020-12-31 12:19:49,729 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}]}
+2020-12-31 12:19:49,882 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:49,882 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:50,052 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:50,052 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:50,052 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:50,052 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:50,059 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:50,059 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:50,275 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:50,275 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:50,385 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:50,385 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:50,451 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:50,451 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:50,528 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:50,528 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:50,623 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:50,623 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:51,216 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:51,216 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:51,248 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:51,248 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:51,249 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:51,249 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:52,360 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:52,360 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:52,423 orders          DEBUG    MainProcess {'price': 274.3, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:52,423 orders          DEBUG    MainProcess {'price': 274.3, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:52,517 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:52,517 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:52,517 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:52,517 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:53,030 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:53,030 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:53,083 orders          DEBUG    MainProcess writing buy order to order_book {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}
+2020-12-31 12:19:53,083 orders          DEBUG    MainProcess writing buy order to order_book {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}
+2020-12-31 12:19:53,130 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:53,130 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:53,153 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}, {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}]}
+2020-12-31 12:19:53,153 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}, {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}]}
+2020-12-31 12:19:53,231 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:53,231 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:53,431 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:53,431 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:53,431 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:53,431 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:53,554 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:53,554 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:53,685 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:53,685 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:53,801 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:53,801 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:53,870 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:53,870 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:54,017 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:54,017 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:54,070 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:54,070 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:54,672 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:54,672 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:54,672 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:54,672 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:54,672 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:54,672 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:55,737 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:55,737 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:55,759 orders          DEBUG    MainProcess {'price': 274.35, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:55,759 orders          DEBUG    MainProcess {'price': 274.35, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:55,759 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:55,759 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:55,759 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:55,759 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:56,320 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:56,320 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:56,367 orders          DEBUG    MainProcess writing buy order to order_book {182: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:56'}}
+2020-12-31 12:19:56,367 orders          DEBUG    MainProcess writing buy order to order_book {182: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:56'}}
+2020-12-31 12:19:56,367 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:56,367 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:56,367 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}, {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}, {182: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:56'}}]}
+2020-12-31 12:19:56,367 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}, {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}, {182: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:56'}}]}
+2020-12-31 12:19:56,445 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:56,445 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:56,652 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:56,652 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:56,684 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:56,684 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:56,699 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:56,699 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:56,769 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:56,769 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:56,810 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:56,810 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:56,864 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:56,864 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:56,884 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:56,884 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:19:56,885 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:56,885 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:19:57,459 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:57,459 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:19:57,475 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:57,475 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:19:57,475 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:57,475 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:19:58,492 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:58,492 orders          DEBUG    MainProcess found order object
+2020-12-31 12:19:58,507 orders          DEBUG    MainProcess {'price': 274.3, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:58,507 orders          DEBUG    MainProcess {'price': 274.3, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:19:58,507 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:58,507 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:19:58,507 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:58,507 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:19:59,224 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:59,224 orders          DEBUG    MainProcess exception in place_buy_limit_order Unknown `tradingsymbol`.
+2020-12-31 12:19:59,271 orders          DEBUG    MainProcess writing buy order to order_book {158: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:59'}}
+2020-12-31 12:19:59,271 orders          DEBUG    MainProcess writing buy order to order_book {158: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:59'}}
+2020-12-31 12:19:59,324 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:59,324 orders          DEBUG    MainProcess writing order book as json
+2020-12-31 12:19:59,371 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}, {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}, {182: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:56'}}, {158: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:59'}}]}
+2020-12-31 12:19:59,371 orders          DEBUG    MainProcess {779521: [{294: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:45'}}, {320: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:18:49'}}, {350: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:19'}}, {2: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:28'}}, {396: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:31'}}, {244: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:34'}}, {163: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:37'}}, {409: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:46'}}, {343: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:49'}}, {162: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:53'}}, {182: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:56'}}, {158: {'quantity': 10, 'price': 274.1, 'total_price': 2741.0, 'type': 'BUY', 'status': 0, 'time': '12/31/2020, 12:19:59'}}]}
+2020-12-31 12:19:59,471 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:59,471 orders          DEBUG    MainProcess order book json written
+2020-12-31 12:19:59,519 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:59,519 tick_handler    DEBUG    MainProcess inside process ticks
+2020-12-31 12:19:59,521 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:59,521 tick_handler    DEBUG    MainProcess ticks length 
+2020-12-31 12:19:59,521 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:59,521 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:59,640 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:59,640 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:59,772 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:59,772 tick_handler    DEBUG    MainProcess before adding tick
+2020-12-31 12:19:59,889 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:19:59,889 tick_handler    DEBUG    MainProcess  tick added 
+2020-12-31 12:20:00,026 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:20:00,026 tick_handler    DEBUG    MainProcess run_strategy ticks length 1
+2020-12-31 12:20:00,088 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:20:00,088 tick_handler    DEBUG    MainProcess signal returned by stochastic 1 instrument 779521
+2020-12-31 12:20:00,505 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:20:00,505 orders          DEBUG    MainProcess inside Check_for_Orders_Queue KiteConnect Object 
+2020-12-31 12:20:00,542 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:20:00,542 orders          DEBUG    MainProcess <kiteconnect.connect.KiteConnect object at 0x0000021C2A1F7E48>
+2020-12-31 12:20:00,605 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:20:00,605 orders          DEBUG    MainProcess ticks count 1
+2020-12-31 12:20:01,826 orders          DEBUG    MainProcess found order object
+2020-12-31 12:20:01,826 orders          DEBUG    MainProcess found order object
+2020-12-31 12:20:01,911 orders          DEBUG    MainProcess {'price': 274.3, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:20:01,911 orders          DEBUG    MainProcess {'price': 274.3, 'instrument': 779521, 'order_type': 1}
+2020-12-31 12:20:01,983 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:20:01,983 orders          DEBUG    MainProcess placing buy order
+2020-12-31 12:20:02,043 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
+2020-12-31 12:20:02,043 orders          DEBUG    MainProcess 779521 placing buy order at 274.1
